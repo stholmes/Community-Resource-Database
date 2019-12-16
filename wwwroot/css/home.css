@@ -1,0 +1,12 @@
+.menu {
+    height: 250px;
+    width: 100%;
+    border: 1px solid black;
+    padding-top: 15px;
+    background-color: rgb(243, 243, 243);
+    border-radius: 2px;
+}
+
+.menu ul {
+    list-style-type: none;
+}

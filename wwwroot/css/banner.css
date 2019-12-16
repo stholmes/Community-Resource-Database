@@ -1,0 +1,70 @@
+.banner {
+    height: 100px;
+
+}
+
+.logo {
+    width: 85px;
+    height: 85px;
+}
+
+.banner h1 {
+    line-height: 90px;
+}
+
+.nav {
+    height: 50px;
+    background-color: #343a40;
+}
+
+.nav-links {
+    list-style-type: none;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+.nav-links li {
+    display: inline-block;
+    vertical-align: top;
+    width: 100px;
+    height: 50px;
+}
+
+.nav-btn {
+    display: inline-block;
+    line-height: 50px;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+.nav-btn:hover {
+    background-color: #25b8f7;
+    color: black;
+    text-decoration: none;
+}
+
+.login-form {
+    width: 450Px;
+    background-color: #343a40;
+    display: none;
+    padding: 25px;
+
+}
+
+.login-form form {
+    padding: 10px;
+    background-color: whitesmoke;
+}
+
+.form-group label {
+    display: block;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.validation {
+    display: block;
+    color: red;
+}
